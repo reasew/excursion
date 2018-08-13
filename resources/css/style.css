@@ -24,7 +24,7 @@ html {
   }
 
 #images {
-  align: center;
+  align-self: center;
 }
 
 #soon {
