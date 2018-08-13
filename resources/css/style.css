@@ -24,12 +24,19 @@ html {
   }
 
 #images {
-  align-items: center;
+  align-content: center;
 }
 
+#soon {
+  font-size: 42px;
+  color: white;
+  text-align: center;
+
+}
 
 #remind {
   color: Gray;
   font-family: Verdana;
   font-size: 21px;
+  text-align: center;
 }
