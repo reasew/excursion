@@ -6,12 +6,8 @@ html {
 #copyright {
   color: Gray;
   text-align: right;
+  font-family: Verdana;
   }
-
-h1, h2, h3 {
-  text-align: center;
-  color: white;
-}
 
 #waterfall {
   color: white;
