@@ -24,7 +24,7 @@ html {
   }
 
 #images {
-  align-content: center;
+  align: center;
 }
 
 #soon {
@@ -32,7 +32,7 @@ html {
   color: white;
   text-align: center;
 
-}
+  }
 
 #remind {
   color: Gray;
